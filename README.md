@@ -19,6 +19,8 @@
 <a href="https://github.com/chiragsingh9123?tab=followers"><img src="https://img.shields.io/github/followers/chiragsingh9123?label=Followers&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github" /></a>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20For%20Projects-00ff41?style=for-the-badge&labelColor=0d1117&logo=statuspage" />
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Greater%20Noida%20🇮🇳-00ff41?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
@@ -49,7 +51,6 @@
 
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00FF41)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-0d1117?style=for-the-badge&logo=ubuntu&logoColor=00FF41)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-0d1117?style=for-the-badge&logo=archlinux&logoColor=00FF41)
 ![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=00FF41)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00FF41)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=00FF41)
@@ -82,6 +83,62 @@
 ![Deepgram](https://img.shields.io/badge/Deepgram_STT-0d1117?style=for-the-badge&logo=deepgram&logoColor=00FF41)
 ![Asterisk](https://img.shields.io/badge/Asterisk_PBX-0d1117?style=for-the-badge&logo=asterisk&logoColor=00FF41)
 ![SIP](https://img.shields.io/badge/SIP_%2F_Telnyx-0d1117?style=for-the-badge&logo=twilio&logoColor=00FF41)
+
+</div>
+
+---
+
+## 🧩 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-chiragsingh9123-00ff41?style=for-the-badge&logo=leetcode&logoColor=0d1117&labelColor=00ff41)](https://leetcode.com/chiragsingh9123)
+&nbsp;
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-chiragsingh9123-00ff41?style=for-the-badge&logo=geeksforgeeks&logoColor=0d1117&labelColor=00ff41)](https://auth.geeksforgeeks.org/user/chiragsingh9123)
+&nbsp;
+[![CodeChef](https://img.shields.io/badge/CodeChef-chiragsingh912-00ff41?style=for-the-badge&logo=codechef&logoColor=0d1117&labelColor=00ff41)](https://www.codechef.com/users/chiragsingh912)
+&nbsp;
+[![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-chiragsingh-00ff41?style=for-the-badge&logo=circle&logoColor=0d1117&labelColor=00ff41)](https://www.naukri.com/code360/profile/chiragsingh)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- LeetCode Stats Card -->
+<img src="https://leetcard.jacoblin.cool/chiragsingh9123?theme=dark&font=Fira+Code&ext=heatmap&border=00ff41&bg=0d1117" height="200" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- Coding stat badges from live data -->
+<img src="https://img.shields.io/badge/LeetCode%20Solved-74%20Problems-00ff41?style=for-the-badge&logo=leetcode&logoColor=00ff41&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Max%20Streak-🔥%2040%20Days-00ff41?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Active%20Days-51%20Days-00ff41?style=for-the-badge&labelColor=0d1117" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Easy-47%20✅-00ff41?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Medium-26%20⚡-ffaa00?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Hard-1%20💀-ff4444?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/LeetCode%20Badge-🏅%2050%20Days%202025-00ff41?style=for-the-badge&labelColor=0d1117" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CodeStudio-81%20Problems%20%7C%20Champion-00ff41?style=for-the-badge&logo=circle&logoColor=00ff41&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/GeeksForGeeks-19%20Problems%20%7C%20Sharda%20Univ-00ff41?style=for-the-badge&logo=geeksforgeeks&logoColor=00ff41&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/CodeChef-32%20Problems-00ff41?style=for-the-badge&logo=codechef&logoColor=00ff41&labelColor=0d1117" />
 
 </div>
 
@@ -130,7 +187,7 @@
 | 🏆 **Patent** | App No. 202511053637 A — Sharda University |
 | 🎯 **Hackathons** | Technovation · Technothon · KRMU 4.0 |
 | 📦 **25+ Projects** | All production-grade & live |
-| 📍 **Location** | Greater Noida, Uttar Pradesh 🇮🇳 |
+| 🎓 **Degree** | B.Tech CSE · Sharda University · 2026 |
 | 💬 **Response** | < 2 hrs on Telegram |
 
 </div>
@@ -146,6 +203,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-chiragsingh9123-00ff41?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=00ff41)](mailto:chiragsingh9123@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-chiragsingh9123-00ff41?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=00ff41)](https://github.com/chiragsingh9123)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chirag--singh--pundir-00ff41?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=00ff41)](https://linkedin.com/in/chirag-singh-pundir-b0186026b)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-articunoapi.com-00ff41?style=for-the-badge&logo=googlechrome&logoColor=0d1117&labelColor=00ff41)](https://articunoapi.com/portfolio.html)
 
 </div>
 
