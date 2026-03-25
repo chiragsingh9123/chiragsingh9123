@@ -2,13 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:e8f4fd,50:bfdbfe,100:dbeafe&height=180&section=header&text=Chirag%20Singh&fontSize=60&fontColor=1e40af&fontAlignY=45&desc=Backend%20Engineer%20%7C%20Server%20Architect%20%7C%20Automation%20Specialist&descAlignY=68&descSize=15&descColor=3b82f6&animation=fadeIn" />
 
-</div>
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=2563EB&center=true&vCenter=true&width=700&height=45&lines=🚀+Building+Real-Backend+Systems;🤖+Crafting+Automation+That+Scales;📞+Architecting+VoIP+Platforms;💳+Integrating+Gateways;🐍+Python+is+my+native+language;⚡+If+it+can+be+automated%2C+it+will+be)](https://git.io/typing-svg)
 
+
 </div>
+
+
+
+
+
 
 <br>
 
