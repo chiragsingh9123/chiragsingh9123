@@ -205,17 +205,12 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirag%20Singh-ffffff?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=2563eb)](https://linkedin.com/in/chirag-singh-pundir-b0186026b)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-articunoapi.com-ffffff?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=2563eb)](https://articunoapi.com/portfolio.html)
 
 </div>
 
 ---
 
-<div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/chiragsingh9123/chiragsingh9123/output/github-contribution-grid-snake.svg)
-
-</div>
 
 <div align="center">
 
