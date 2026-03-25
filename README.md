@@ -24,13 +24,12 @@
 &nbsp;
 <img src="https://img.shields.io/badge/📍-Greater%20Noida%2C%20India-2563eb?style=for-the-badge&labelColor=eff6ff" />
 
+
+
+[![Visit Portfolio](https://img.shields.io/badge/🚗_Visit-chiragsingh.online-2563eb?style=for-the-badge&labelColor=1e40af)](https://chiragsingh.online)
 </div>
 
 ---
-<div align="center">
-[![Visit Portfolio](https://img.shields.io/badge/🚗_Visit-chiragsingh.online-2563eb?style=for-the-badge&labelColor=1e40af)](https://chiragsingh.online)
-
-</div>
 ## 📊 GitHub Stats
 
 <div align="center">
